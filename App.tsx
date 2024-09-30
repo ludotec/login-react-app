@@ -4,7 +4,9 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
+      <Text>
+      https://github.com/callstack/react-native-paper-login-template/blob/master/src/components/Background.tsx  
+      </Text>
       <StatusBar style="auto" />
     </View>
   );
